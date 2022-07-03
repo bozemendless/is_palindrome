@@ -1,4 +1,4 @@
-# Palindrome (迴文)
+# Palindrome (回文)
 # 透過Python寫了兩種對回文的判別方式
 # 回傳True表示STR為回文字串, 回傳False表示STR非回文字串
 
