@@ -1,6 +1,6 @@
 /* 
-Palindrome (迴文)
-透過JavaScript中的While迴圈對回文字串進行判斷
+Palindrome (回文)
+透過JavaScript中的while迴圈對回文字串進行判斷
 */
 
 // Solution
