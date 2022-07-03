@@ -1,6 +1,7 @@
 /* 
 Palindrome (回文)
 透過JavaScript中的while迴圈對回文字串進行判斷
+回傳true表示STR為回文字串, 回傳false表示STR非回文字串
 */
 
 // Solution
